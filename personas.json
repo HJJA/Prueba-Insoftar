@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "611c26a63f03e70924dbd62f"
+  },
+  "nombres": "Holman",
+  "apellidos": "Jimenez",
+  "cedula": 123,
+  "correo": "holman@gmail.com",
+  "telefono": 123123,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c26fa3f03e70924dbd638"
+  },
+  "nombres": "Lilibeth",
+  "apellidos": "Palmera",
+  "cedula": 1234,
+  "correo": "Lili@gmail.com",
+  "telefono": 41111,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611c29023f03e70924dbd65d"
+  },
+  "nombres": "Luis",
+  "apellidos": "Palomino",
+  "cedula": 1234567890,
+  "correo": "Usuario1@gmail.com",
+  "telefono": 987456321,
+  "__v": 0
+}]

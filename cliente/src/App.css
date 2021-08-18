@@ -1,0 +1,33 @@
+.cuerpo {
+  width: 90%;
+  border: solid 1px black;
+  margin: auto;
+  background-color: cadetblue;
+  font-family: "Times New Roman", Times, serif;
+}
+
+label{
+  margin-top: 15px;
+}
+
+.accion{
+  width: 120px;
+}
+
+.tabla {
+  text-align: center;
+  margin-top: 80px;
+  width: 100%;
+  float: right;
+  padding: 20px;
+}
+
+.titulo {
+  font-size: 30px;
+  text-decoration: initial;
+  margin-bottom: 30px;
+}
+
+.cerrar{
+  font-size: 50px;
+}
